@@ -24,3 +24,5 @@ class Program
         bool isQualified = age > 15 && !hasDUI && speedingTickets <= 3;
 
         // Print the result of the qualification check
+    }
+}
